@@ -16,15 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OrderActivity"
-            android:label="@string/create_order"
-            android:parentActivityName=".MainActivity">
-
-            <!-- Only if supports below API level 16-->
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
+        <activity android:name=".DetailActivity"></activity>
     </application>
 
 </manifest>

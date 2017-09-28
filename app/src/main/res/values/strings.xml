@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Appbar</string>
-    <string name="create_order">Create Order</string>
-    <string name="create_order_title">Create Order</string>
-    <string name="action_share">Share</string>
+    <string name="details_button">Show Details</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+
 </resources>
